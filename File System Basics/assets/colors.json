@@ -1,0 +1,15 @@
+{
+    "sample": true,
+    "name": "color-list",
+    "desc": "A list of colors",
+    "colorList": [
+        {
+            "color": "red",
+            "hex": "#FF0000"
+        },
+        {
+            "color": "blue",
+            "hex": "#0000"
+        }
+    ]
+}
